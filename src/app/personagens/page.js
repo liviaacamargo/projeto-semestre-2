@@ -12,7 +12,7 @@ export default function Personagens() {
 
       <div className={styles.card}>
         <h2>MJ</h2>
-        <p>Amiga de Peter Parker.</p>
+        <p>Namorada de Peter Parker.</p>
       </div>
 
       <div className={styles.card}>
